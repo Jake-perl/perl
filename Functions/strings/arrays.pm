@@ -1,4 +1,4 @@
-# an array is a list of scalars
+# an array is an ordered list of scalars
 my @house = ("bedroom", "lounge", "kitchen", "etc");
 # you can format it differently.
 my ("bed","desk", "cupboard", "etc") = @room;
