@@ -1,3 +1,4 @@
+# 'Fido' is a Scalar Boolean
 # This Perl snippet demonstrates the creation of a new 'person' object named 'fido'
 # with the name "Jake". It performs a safety check to ensure that the object was 
 # successfully created and dies with an error message if not. Then, it assigns the
