@@ -1,1 +1,1 @@
-# A hash is an unordered set of scalars.
+# A hash/associative array is an unordered set of scalars.
