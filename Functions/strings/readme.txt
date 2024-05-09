@@ -1,2 +1,2 @@
-#strings
+# strings
 Functions used in strings.
